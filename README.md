@@ -33,11 +33,15 @@ The fish dataset includes various features like species, weight, length, and mor
 ## 📊 Our Approach
 
 1. **Explore the data**: Understand what each feature means and how they relate to each other.
+
 ![Histogram and KDE](img/histogram_kde.png)
+
 2. **Preprocess the data**: Clean and prepare the data for modeling.
 3. **Build models**: Create different models to predict fish characteristics.
 4. **Hyperparameter tuning**: Optimize our models to achieve the best performance.
+
 ![Model Performance vs. Max Depth](img/model%20performance.png)
+
 5. **Evaluate and improve**: Test our models and make them better.
 
 
