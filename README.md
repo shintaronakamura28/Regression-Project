@@ -2,11 +2,11 @@
 
 # 🎣 Fish Regression Project 🐟
 
-Welcome to the Fish Regression Project! This project is all about using data to understand and predict fish characteristics. Whether you're a fish enthusiast or just curious about data science, this guide will help you dive in! 🌊
+Welcome to the Fish Regression Project! This project is all about using data to understand and predict fish characteristics.🌊
 
 ## 🌟 What This Project Is About
 
-In this project, we're using a special dataset all about fish. Our goal is to use this data to build models that can predict things like fish weight, length, and more. It's like being a data detective! 🕵️‍♀️🕵️‍♂️
+In this project, we're using a special dataset all about fish. Our goal is to use this data to build models that can predict things like fish weight, length, and more.🕵️‍♀️🕵️‍♂️
 
 ## 📂 What's Inside
 
@@ -28,14 +28,17 @@ We're using the following tools:
 
 ## 🤓 Meet the Data
 
-The fish dataset includes various features like species, weight, length, and more. We'll use these features to predict different characteristics of the fish. Think of it as learning to speak fish language! 🐠
+The fish dataset includes various features like species, weight, length, and more. We'll use these features to predict different characteristics of the fish. 🐠
 
 ## 📊 Our Approach
 
 1. **Explore the data**: Understand what each feature means and how they relate to each other.
+![Histogram and KDE](img/histogram_kde.png)
 2. **Preprocess the data**: Clean and prepare the data for modeling.
 3. **Build models**: Create different models to predict fish characteristics.
-4. **Evaluate and improve**: Test our models and make them better.
+4. **Hyperparameter tuning**: Optimize our models to achieve the best performance.
+![Model Performance vs. Max Depth](img/model%20performance.png)
+5. **Evaluate and improve**: Test our models and make them better.
 
 
 
