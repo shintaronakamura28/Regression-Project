@@ -44,7 +44,28 @@ The fish dataset includes various features like species, weight, length, and mor
 
 5. **Evaluate and improve**: Test our models and make them better.
 
+### Linear Regression Model Results
 
+**Training Data:**
+- Significant average deviation of predictions from actual values.
+- Explains 91% of the variance in the data.
+
+**Test Data:**
+- Good generalization with lower deviation.
+- Explains 94% of the variance in the data.
+
+### Best Extra Trees Model Results
+
+**Training Data:**
+- Extremely close fit with very low deviation.
+- Nearly all variance explained, indicating overfitting.
+
+**Test Data:**
+- The Extra Trees model outperforms the Linear Regression model in both RMSE and R².
+
+**Summary**
+- **Extra Trees Model**: Better prediction accuracy and variance explanation, but potential overfitting needs to be addressed.
+- **Linear Regression Model**: Good generalization with stable performance, but higher errors compared to the Extra Trees model.
 
 
 
