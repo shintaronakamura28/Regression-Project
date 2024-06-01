@@ -17,15 +17,6 @@ Here's what you'll find in this project:
 - **Models**: Our predictive models, built and tested.
 - **Results**: The findings from our models and analysis.
 
-## 🚀 Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone the repo**: Get a copy of this project on your computer.
-2. **Open the notebooks**: Use Jupyter Notebook or any compatible software to open and run the notebooks.
-3. **Explore the data**: Dive into the data and see what you can discover!
-4. **Build and test models**: Use the provided notebooks to create and evaluate predictive models.
-
 ## 🛠️ Tools and Technologies
 
 We're using the following tools:
